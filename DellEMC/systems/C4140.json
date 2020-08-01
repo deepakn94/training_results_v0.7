@@ -3,7 +3,7 @@
     "division": "closed",
     "status": "available",
     "system_name": "C4140",
-    "number of nodes": "1",
+    "number_of_nodes": "1",
     "host_processors_per_node": "2",
     "host_processor_model_name": "Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz",
     "host_processor_core_count": "40",

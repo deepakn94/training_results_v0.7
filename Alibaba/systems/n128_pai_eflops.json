@@ -32,8 +32,8 @@
   "other_software_stack"              : {
         "cuda_driver_version": "418.87",
         "cudnn_version": "7.6",
-        "cuda_version": "10.1.105",
-    },
+        "cuda_version": "10.1.105"
+  },
   "operating_system"                  : "AliOS",
   "sw_notes"                          : ""
 }
